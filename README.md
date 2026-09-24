@@ -144,22 +144,6 @@ My main focus in competitive programming is improving:
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/roy-anshu-code">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roy-anshu-code&show_icons=true&hide_border=true&theme=transparent" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/roy-anshu-code">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roy-anshu-code&layout=compact&hide_border=true&theme=transparent" />
-</a>
-
-</div>
-
 ## 🔗 Connect With Me
 
 <div align="center">
