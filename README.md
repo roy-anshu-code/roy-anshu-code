@@ -144,8 +144,6 @@ My main focus in competitive programming is improving:
 
 ---
 
----
-
 ## 📊 GitHub
 
 <div align="center">
